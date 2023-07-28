@@ -1,4 +1,4 @@
-# DataScience
+# Client Segmentations 
 Some works using ML and other modeling tools
 
 
